@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidOrakpo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## Github Streak
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DavidOrakpo&theme=tokyonight" alt="DavidOrakpo" /></p>
