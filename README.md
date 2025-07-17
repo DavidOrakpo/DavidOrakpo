@@ -19,5 +19,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![wakatime](https://wakatime.com/badge/user/3aa6f719-b56c-479d-911b-8185c91977fa.svg)](https://wakatime.com/@3aa6f719-b56c-479d-911b-8185c91977fa)
+
 ## Github Streak
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DavidOrakpo&theme=tokyonight" alt="DavidOrakpo" /></p>
